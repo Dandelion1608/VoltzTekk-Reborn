@@ -1,5 +1,9 @@
 Voltz Tekk Mod List
 <ul>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/easy-villagers"> Easy Villagers</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/aquaculture">Aquaculture 2 (by Shadow)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/aquaculture-delight">Aquaculture Delight (A Farmer's Delight Add-on) (by nocubeyt)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/polylib">PolyLib (by Official_CreeperHost)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/electrodynamics">Electrodynamics (by aurilisdev)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/villager-names">Villager Names (by Serilum)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ec-epic-samurai-compat">EC Epic Samurai Compat (by Userofbricks)</a></li>
@@ -32,8 +36,6 @@ Voltz Tekk Mod List
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/fruits-delight">Fruits Delight (by lcy0x1)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/explorers-compass">Explorer's Compass (by Chaosyr)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island">YUNG's Better End Island (Forge) (by YUNGNICKYOUNG)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/library-ferret-forge">Library Ferret - Forge (by jtl_elisa)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/better-village-forge">Better Villages - Forge (by jtl_elisa)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/titanium">Titanium (by Buuz135)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/curios">Curios API (Forge/NeoForge) (by TheIllusiveC4)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/delightful">Delightful (by brnbrd)</a></li>
@@ -42,7 +44,6 @@ Voltz Tekk Mod List
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/polylib">PolyLib (by Official_CreeperHost)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected">Powah! (Rearchitected) (by thetechnici4n)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/paladins-furniture">Paladin's Furniture (by UnlikePaladin)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/cupboard">Cupboard (by someaddon)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/engineers-delight">Engineers Delight (by Tomtaru)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/serene-seasons">Serene Seasons (by TheAdubbz)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples">YUNG's Better Jungle Temples (Forge) (by YUNGNICKYOUNG)</a></li>
@@ -53,9 +54,7 @@ Voltz Tekk Mod List
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/chimes">Chimes (by BlewberryPie)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/clumps">Clumps (by Jaredlll08)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts">YUNG's Better Witch Huts (Forge) (by YUNGNICKYOUNG)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/twilights-flavors-delight">Twilight's Flavors & Delight (by lcy0x1)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/towns-and-towers">Towns and Towers (by Biban_Auriu)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/aquaculture-delight">Aquaculture Delight (A Farmer's Delight Add-on) (by nocubeyt)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/resourceful-lib">Resourceful Lib (by ThatGravyBoat)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/jade">Jade 🔍 (by Snownee)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/placebo">Placebo (by Shadows_of_Fire)</a></li>
@@ -66,7 +65,6 @@ Voltz Tekk Mod List
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses">YUNG's Better Nether Fortresses (Forge) (by YUNGNICKYOUNG)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ars-nouveau">Ars Nouveau (by baileyholl2)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/cristel-lib">Cristel Lib (by Cristelknight)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest">The Twilight Forest (by Benimatic)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/the-undergarden">The Undergarden (by Quek04)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/polymorph">Polymorph (Fabric/Forge/Quilt) (by TheIllusiveC4)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus">Better Combat [Fabric & Forge] (by daedelus_dev)</a></li>
@@ -80,6 +78,7 @@ Voltz Tekk Mod List
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mutant-monsters">Mutant Monsters [Forge & Fabric] (by Fuzs)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/farmers-delight">Farmer's Delight (by vectorwing)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/blast-craft">Blastcraft mod (by aurilisdev)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map">Xaero's World Map (by xaero96)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/endremastered">End Remastered (by jack_bagel)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/aether">The Aether (by TheAetherTeam)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/balm">Balm (Forge Edition) (by BlayTheNinth)</a></li>
@@ -97,19 +96,15 @@ Voltz Tekk Mod List
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/river-redux">River Redux (by Jasmine)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/guard-villagers">Guard Villagers (by almightytallestred)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/emi">EMI (by EmilyPloszaj)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/aquaculture">Aquaculture 2 (by Shadow)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/immersive-engineering">Immersive Engineering (by BluSunrize)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/loot-integrations">Loot Integrations[Forge/Fabric] (by someaddon)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ironchests">Iron Chests: Restocked (by ThatGravyBoat)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/easy-villagers">Easy Villagers (by henkelmax)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/connectivity">Connectivity[Forge/Fabric] (by someaddon)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/create-applied-kinetics">Create: Applied Kinetics (by Forsteri123)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/better-archeology">Better Archeology (by Pandarix)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/modular-forcefields">Modular Force Fields Systems (by aurilisdev)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge">The Bumblezone (NeoForge/Forge) (by telepathicgrunt)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/maturi-delight">Maturi Delight (by bagu_chan500)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/polymorphic-energistics">Polymorphic Energistics (by ninety)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map">Xaero's World Map (by xaero96)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay">Fast Leaf Decay (by olafskiii)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/terrablender">TerraBlender (Forge) (by TheAdubbz)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/architectury-api">Architectury API (Fabric/Forge/NeoForge) (by shedaniel)</a></li>
