@@ -1,9 +1,5 @@
 Voltz Tekk Mod List
 <ul>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/easy-villagers"> Easy Villagers</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/aquaculture">Aquaculture 2 (by Shadow)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/aquaculture-delight">Aquaculture Delight (A Farmer's Delight Add-on) (by nocubeyt)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/polylib">PolyLib (by Official_CreeperHost)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/electrodynamics">Electrodynamics (by aurilisdev)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/villager-names">Villager Names (by Serilum)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ec-epic-samurai-compat">EC Epic Samurai Compat (by Userofbricks)</a></li>
